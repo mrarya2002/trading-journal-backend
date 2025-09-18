@@ -1,0 +1,18 @@
+# Git files
+.git
+.gitignore
+
+# IDE files
+.idea
+*.iml
+
+# Build files
+target
+*.log
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Other
+README.md
